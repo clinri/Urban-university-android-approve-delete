@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">ApproveDelete</string>
+    <string name="text_output">Вывод данных</string>
+    <string name="text_input">Введите текст</string>
+    <string name="text_save_data">Сохранить данные</string>
+    <string name="delete_data">Удалить данные</string>
+    <string name="text_not_saved">Ничего не сохранено</string>
+    <string name="text_approve_delete">Подтвердите удаление</string>
+    <string name="text_data_delete">Данные удалены</string>
+    <string name="text_delete">Удалить</string>
+    <string name="text_nothing_input">Ничего не введено</string>
 </resources>
